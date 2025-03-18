@@ -1,5 +1,5 @@
 **EN** 
-### **Technical documentation describing the project for selective testing of a bank web application functionality.**
+### **Technical documentation describing the project for selective testing of a bank web application functionality**
 
 **It includes:**  
 - Functional and non-functional requirements  
@@ -18,7 +18,7 @@
 
 ---
 **RU**  
-### **Документация с техническим описанием проекта для выборочного тестирования функционала веб-приложения банка.**
+### **Документация с техническим описанием проекта для выборочного тестирования функционала веб-приложения банка**
 
 **В ней описаны:**
 - функциональные и нефункциональные требования
